@@ -54,7 +54,7 @@ This project implements a smart door security system using **facial recognition*
 ![Collaboration Diagram](Collobration%20diagram.png)
 
 ### Output Results
-![Results](Test%20Image.png)
+![WhatsApp Image 2026-04-21 at 2.49.30 PM](Test%20Image.png)
 
 ---
 
