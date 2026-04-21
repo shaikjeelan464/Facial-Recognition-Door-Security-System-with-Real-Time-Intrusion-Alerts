@@ -1,0 +1,2 @@
+# Facial-Recognition-Door-Security-System-with-Real-Time-Intrusion-Alerts
+Facial Recognition Door Security System using Raspberry Pi that enables secure access control by identifying authorized users. The system captures and processes images in real-time, unlocks the door on successful recognition, and triggers intrusion alerts with email notifications for unauthorized access or forced entry detection.
